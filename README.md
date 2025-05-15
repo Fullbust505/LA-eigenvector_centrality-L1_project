@@ -9,5 +9,9 @@ Hi. The name's Fullbust. I am a student at EFREI and for a project of Linear Alg
 We're using classrooms designed in python with arrays where each "1" represent a seat for a student. Feel free to change the order of the class.
 We are using two distinct method to calculate the influence of each student :
 
-1. The "direct" method : Students can only influence their direct neighbors, on a line. For example, a student in the middle of a line can only bother the students on his right and his left. A student on the left end of a line can only bother its neighbor on his right.
+1. The "direct" method : Students can only influence their direct neighbors, on a line. For example, a student in the middle of a line can only bother the students on his right and left. A student on the left end of a line can only bother its neighbor on his right.
 2. The "all" method : Here, everyone influences everyone. However, the greater the distance between two students, the lighter the influence.
+
+## Will it be finished one day ? 
+
+I hope so. Dunno. Stay tuned.
